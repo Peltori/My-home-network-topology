@@ -1,2 +1,2 @@
-# My-home-network-topology
-My topology that I made
+# My home network topology
+This topology is for documenting my network but obviously the ip-addresses are masked.
